@@ -8,6 +8,6 @@
 
 🌟 Let's connect and collaborate on projects that bridge the gap between data and actionable insights. Together, we can harness the potential of technology to make a tangible impact.
 
-📫 Reach out: [Your GitHub handle] | [LinkedIn/Portfolio URL]
+📫 Reach out: (https://www.linkedin.com/in/matthiasrochtus/ "Google's Homepage")
 
 #DataScience #Python #AI #MachineLearning #Innovation
