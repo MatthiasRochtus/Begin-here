@@ -8,7 +8,7 @@
 
 🧠 Armed with a curious mind and a passion for innovation, I'm on a mission to push the boundaries of what's possible. Whether it's building predictive models or diving into the depths of neural networks, I'm dedicated to applying cutting-edge techniques to real-world challenges.
 
-🌟 Let's connect and collaborate on projects that bridge the gap between data and actionable insights. Together, we can harness the potential of technology to make a tangible impact.
+🌟 Let's connect and collaborate on projects that bridge the gap between data and actionable insights.
 
 📫 Reach out: https://www.linkedin.com/in/matthiasrochtus/
 
